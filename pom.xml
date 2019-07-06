@@ -34,9 +34,9 @@ under the License.
     <name>Siddhi IO GooglePubSub Extension Parent</name>
 
     <scm>
-        <connection>scm:git:https://github.com/wso2-extensions/siddhi-io-googlepubsub.git</connection>
-        <url>https://github.com/wso2-extensions/siddhi-io-googlepubsub.git</url>
-        <developerConnection>scm:git:https://github.com/wso2-extensions/siddhi-io-googlepubsub.git
+        <connection>scm:git:https://github.com/siddhi-io/siddhi-io-googlepubsub.git</connection>
+        <url>https://github.com/siddhi-io/siddhi-io-googlepubsub.git</url>
+        <developerConnection>scm:git:https://github.com/siddhi-io/siddhi-io-googlepubsub.git
         </developerConnection>
         <tag>HEAD</tag>
     </scm>
@@ -196,7 +196,7 @@ under the License.
         </plugins>
     </build>
     <properties>
-        <siddhi.version>5.0.0</siddhi.version>
+        <siddhi.version>5.0.2</siddhi.version>
         <siddhi.version.range>[5.0.0,6.0.0)</siddhi.version.range>
         <log4j.version>1.2.17.wso2v1</log4j.version>
         <testing.version>6.11</testing.version>
